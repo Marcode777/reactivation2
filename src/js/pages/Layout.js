@@ -25,7 +25,7 @@ export default class Layout extends React.Component {
           <div class="row">
             <div class="col=lg-12">
 
-              <h1>Killer(???) News</h1>
+              <h1>Killer(!?!?!) News</h1>
               {this.props.children}
               <Link to="archives" activeClassName="test"><button class="btn btn-primary">archives</button></Link>
               <Link to="settings"><button class="btn btn-primary">settings</button></Link>
